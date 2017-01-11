@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C8FAF001E255C4D001BFEF8 /* Tyler_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */; };
+		1C8FAF011E255C4D001BFEF8 /* JayZ_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */; };
+		1C8FAF021E255C4D001BFEF8 /* JayZ_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */; };
+		1C8FAF031E255C4D001BFEF8 /* IceCube_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFA1E255C4D001BFEF8 /* IceCube_Sil.png */; };
+		1C8FAF041E255C4D001BFEF8 /* IceCube_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFB1E255C4D001BFEF8 /* IceCube_Raw.png */; };
+		1C8FAF051E255C4D001BFEF8 /* Gambino_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFC1E255C4D001BFEF8 /* Gambino_Sil.png */; };
+		1C8FAF061E255C4D001BFEF8 /* Gambino_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFD1E255C4D001BFEF8 /* Gambino_Raw.png */; };
+		1C8FAF071E255C4D001BFEF8 /* DJKhaled_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFE1E255C4D001BFEF8 /* DJKhaled_Sil.png */; };
+		1C8FAF081E255C4D001BFEF8 /* DJKhaled_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEFF1E255C4D001BFEF8 /* DJKhaled_Raw.png */; };
+		1C8FAF0A1E2561D4001BFEF8 /* BackGround.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF091E2561D4001BFEF8 /* BackGround.gif */; };
+		1C8FAF0C1E256624001BFEF8 /* TylerPopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF0B1E256624001BFEF8 /* TylerPopUp.swift */; };
+		1C8FAF0E1E2575DE001BFEF8 /* KhaledPopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF0D1E2575DE001BFEF8 /* KhaledPopUp.swift */; };
+		1C8FAF141E257DA7001BFEF8 /* Khaled_AnotherOne.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF131E257DA7001BFEF8 /* Khaled_AnotherOne.mp3 */; };
+		1C8FAF181E257E86001BFEF8 /* Khaled_RealLife.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF171E257E86001BFEF8 /* Khaled_RealLife.mp3 */; };
+		1C8FAF1B1E257F4B001BFEF8 /* Khaled_YouPlayedYourself.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF191E257F4B001BFEF8 /* Khaled_YouPlayedYourself.mp3 */; };
+		1C8FAF1C1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF1A1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 */; };
+		1C8FAF1E1E2589FE001BFEF8 /* Khaled_Accurate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF1D1E2589FE001BFEF8 /* Khaled_Accurate.mp3 */; };
+		1C8FAF201E259191001BFEF8 /* CGPopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF1F1E259191001BFEF8 /* CGPopUp.swift */; };
+		1C8FAF221E25AA0A001BFEF8 /* CG_Yeah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF211E25AA0A001BFEF8 /* CG_Yeah.mp3 */; };
+		1C8FAF261E25AA61001BFEF8 /* CG_Yeh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF231E25AA61001BFEF8 /* CG_Yeh.mp3 */; };
+		1C8FAF271E25AA61001BFEF8 /* CG_Okay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */; };
+		1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */; };
+		1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */; };
 		1CE09F981E19C39E004E2A40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F971E19C39E004E2A40 /* AppDelegate.swift */; };
 		1CE09F9A1E19C39E004E2A40 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F991E19C39E004E2A40 /* FirstViewController.swift */; };
 		1CE09F9C1E19C39E004E2A40 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F9B1E19C39E004E2A40 /* SecondViewController.swift */; };
@@ -15,6 +38,37 @@
 		1CE09FA41E19C39E004E2A40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FA21E19C39E004E2A40 /* LaunchScreen.storyboard */; };
 		1CE09FAF1E19C39E004E2A40 /* ADLIBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09FAE1E19C39E004E2A40 /* ADLIBTests.swift */; };
 		1CE09FBA1E19C39E004E2A40 /* ADLIBUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09FB91E19C39E004E2A40 /* ADLIBUITests.swift */; };
+		1CE09FCD1E19C402004E2A40 /* Chance_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FC91E19C402004E2A40 /* Chance_Raw.png */; };
+		1CE09FCE1E19C402004E2A40 /* Drake_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FCA1E19C402004E2A40 /* Drake_Raw.png */; };
+		1CE09FCF1E19C402004E2A40 /* Kanye_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FCB1E19C402004E2A40 /* Kanye_Raw.png */; };
+		1CE09FD01E19C402004E2A40 /* Tyler_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FCC1E19C402004E2A40 /* Tyler_Raw.png */; };
+		1CE09FEA1E19C43A004E2A40 /* Chance_Ah1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD41E19C43A004E2A40 /* Chance_Ah1.mp3 */; };
+		1CE09FEB1E19C43A004E2A40 /* Chance_Ah2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD51E19C43A004E2A40 /* Chance_Ah2.mp3 */; };
+		1CE09FEC1E19C43A004E2A40 /* Chance_Ah3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD61E19C43A004E2A40 /* Chance_Ah3.mp3 */; };
+		1CE09FED1E19C43A004E2A40 /* Chance_Yeah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD71E19C43A004E2A40 /* Chance_Yeah.mp3 */; };
+		1CE09FEE1E19C43A004E2A40 /* Drake_Bah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD81E19C43A004E2A40 /* Drake_Bah.mp3 */; };
+		1CE09FEF1E19C43A004E2A40 /* Drake_ISayUh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FD91E19C43A004E2A40 /* Drake_ISayUh.mp3 */; };
+		1CE09FF01E19C43A004E2A40 /* Drake_NotAgain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDA1E19C43A004E2A40 /* Drake_NotAgain.mp3 */; };
+		1CE09FF11E19C43A004E2A40 /* Drake_OhMan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDB1E19C43A004E2A40 /* Drake_OhMan.mp3 */; };
+		1CE09FF21E19C43A004E2A40 /* Drake_Yeah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDC1E19C43A004E2A40 /* Drake_Yeah.mp3 */; };
+		1CE09FF31E19C43A004E2A40 /* Kanye_Laugh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDD1E19C43A004E2A40 /* Kanye_Laugh.mp3 */; };
+		1CE09FF41E19C43A004E2A40 /* Kanye_Reh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDE1E19C43A004E2A40 /* Kanye_Reh.mp3 */; };
+		1CE09FF51E19C43A004E2A40 /* Kanye_Unh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FDF1E19C43A004E2A40 /* Kanye_Unh.mp3 */; };
+		1CE09FF61E19C43A004E2A40 /* Tyler_Listen1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE01E19C43A004E2A40 /* Tyler_Listen1.mp3 */; };
+		1CE09FF71E19C43A004E2A40 /* Tyler_Listen2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE11E19C43A004E2A40 /* Tyler_Listen2.mp3 */; };
+		1CE09FF81E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE31E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 */; };
+		1CE09FF91E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE41E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 */; };
+		1CE09FFA1E19C43A004E2A40 /* Drake Acapella Freestyle On Tim Westwood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE51E19C43A004E2A40 /* Drake Acapella Freestyle On Tim Westwood.mp3 */; };
+		1CE09FFB1E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE61E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 */; };
+		1CE09FFC1E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE71E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 */; };
+		1CE09FFD1E19C43A004E2A40 /* Vevo Presents Shady CXVPHER.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE81E19C43A004E2A40 /* Vevo Presents Shady CXVPHER.mp3 */; };
+		1CE09FFE1E19C43A004E2A40 /* Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE09FE91E19C43A004E2A40 /* Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3 */; };
+		1CE0A0051E19D8AF004E2A40 /* DrakePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE0A0041E19D8AF004E2A40 /* DrakePopUp.swift */; };
+		1CE0A0071E1AC74D004E2A40 /* Drake_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE0A0061E1AC74D004E2A40 /* Drake_Sil.png */; };
+		1CE0A0091E1AFD41004E2A40 /* Kanye_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE0A0081E1AFD41004E2A40 /* Kanye_Sil.png */; };
+		1CE0A00B1E1AFDEC004E2A40 /* KanyePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE0A00A1E1AFDEC004E2A40 /* KanyePopUp.swift */; };
+		1CE0A00D1E1B03AA004E2A40 /* ChancePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE0A00C1E1B03AA004E2A40 /* ChancePopUp.swift */; };
+		1CE0A00F1E1B03D7004E2A40 /* Chance_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CE0A00E1E1B03D7004E2A40 /* Chance_Sil.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +89,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tyler_Sil.png; sourceTree = "<group>"; };
+		1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JayZ_Sil.png; sourceTree = "<group>"; };
+		1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JayZ_Raw.png; sourceTree = "<group>"; };
+		1C8FAEFA1E255C4D001BFEF8 /* IceCube_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IceCube_Sil.png; sourceTree = "<group>"; };
+		1C8FAEFB1E255C4D001BFEF8 /* IceCube_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IceCube_Raw.png; sourceTree = "<group>"; };
+		1C8FAEFC1E255C4D001BFEF8 /* Gambino_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gambino_Sil.png; sourceTree = "<group>"; };
+		1C8FAEFD1E255C4D001BFEF8 /* Gambino_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gambino_Raw.png; sourceTree = "<group>"; };
+		1C8FAEFE1E255C4D001BFEF8 /* DJKhaled_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DJKhaled_Sil.png; sourceTree = "<group>"; };
+		1C8FAEFF1E255C4D001BFEF8 /* DJKhaled_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DJKhaled_Raw.png; sourceTree = "<group>"; };
+		1C8FAF091E2561D4001BFEF8 /* BackGround.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = BackGround.gif; sourceTree = "<group>"; };
+		1C8FAF0B1E256624001BFEF8 /* TylerPopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TylerPopUp.swift; sourceTree = "<group>"; };
+		1C8FAF0D1E2575DE001BFEF8 /* KhaledPopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KhaledPopUp.swift; sourceTree = "<group>"; };
+		1C8FAF131E257DA7001BFEF8 /* Khaled_AnotherOne.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khaled_AnotherOne.mp3; sourceTree = "<group>"; };
+		1C8FAF171E257E86001BFEF8 /* Khaled_RealLife.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khaled_RealLife.mp3; sourceTree = "<group>"; };
+		1C8FAF191E257F4B001BFEF8 /* Khaled_YouPlayedYourself.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khaled_YouPlayedYourself.mp3; sourceTree = "<group>"; };
+		1C8FAF1A1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khaled_AndAnotherOne.mp3; sourceTree = "<group>"; };
+		1C8FAF1D1E2589FE001BFEF8 /* Khaled_Accurate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khaled_Accurate.mp3; sourceTree = "<group>"; };
+		1C8FAF1F1E259191001BFEF8 /* CGPopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CGPopUp.swift; sourceTree = "<group>"; };
+		1C8FAF211E25AA0A001BFEF8 /* CG_Yeah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Yeah.mp3; sourceTree = "<group>"; };
+		1C8FAF231E25AA61001BFEF8 /* CG_Yeh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Yeh.mp3; sourceTree = "<group>"; };
+		1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Okay.mp3; sourceTree = "<group>"; };
+		1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Heh.mp3; sourceTree = "<group>"; };
+		1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryBackground.swift; sourceTree = "<group>"; };
 		1CE09F941E19C39E004E2A40 /* ADLIB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ADLIB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE09F971E19C39E004E2A40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CE09F991E19C39E004E2A40 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +126,37 @@
 		1CE09FB51E19C39E004E2A40 /* ADLIBUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ADLIBUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE09FB91E19C39E004E2A40 /* ADLIBUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADLIBUITests.swift; sourceTree = "<group>"; };
 		1CE09FBB1E19C39E004E2A40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CE09FC91E19C402004E2A40 /* Chance_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chance_Raw.png; sourceTree = "<group>"; };
+		1CE09FCA1E19C402004E2A40 /* Drake_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Drake_Raw.png; sourceTree = "<group>"; };
+		1CE09FCB1E19C402004E2A40 /* Kanye_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kanye_Raw.png; sourceTree = "<group>"; };
+		1CE09FCC1E19C402004E2A40 /* Tyler_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tyler_Raw.png; sourceTree = "<group>"; };
+		1CE09FD41E19C43A004E2A40 /* Chance_Ah1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chance_Ah1.mp3; sourceTree = "<group>"; };
+		1CE09FD51E19C43A004E2A40 /* Chance_Ah2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chance_Ah2.mp3; sourceTree = "<group>"; };
+		1CE09FD61E19C43A004E2A40 /* Chance_Ah3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chance_Ah3.mp3; sourceTree = "<group>"; };
+		1CE09FD71E19C43A004E2A40 /* Chance_Yeah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chance_Yeah.mp3; sourceTree = "<group>"; };
+		1CE09FD81E19C43A004E2A40 /* Drake_Bah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Drake_Bah.mp3; sourceTree = "<group>"; };
+		1CE09FD91E19C43A004E2A40 /* Drake_ISayUh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Drake_ISayUh.mp3; sourceTree = "<group>"; };
+		1CE09FDA1E19C43A004E2A40 /* Drake_NotAgain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Drake_NotAgain.mp3; sourceTree = "<group>"; };
+		1CE09FDB1E19C43A004E2A40 /* Drake_OhMan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Drake_OhMan.mp3; sourceTree = "<group>"; };
+		1CE09FDC1E19C43A004E2A40 /* Drake_Yeah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Drake_Yeah.mp3; sourceTree = "<group>"; };
+		1CE09FDD1E19C43A004E2A40 /* Kanye_Laugh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kanye_Laugh.mp3; sourceTree = "<group>"; };
+		1CE09FDE1E19C43A004E2A40 /* Kanye_Reh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kanye_Reh.mp3; sourceTree = "<group>"; };
+		1CE09FDF1E19C43A004E2A40 /* Kanye_Unh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kanye_Unh.mp3; sourceTree = "<group>"; };
+		1CE09FE01E19C43A004E2A40 /* Tyler_Listen1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tyler_Listen1.mp3; sourceTree = "<group>"; };
+		1CE09FE11E19C43A004E2A40 /* Tyler_Listen2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tyler_Listen2.mp3; sourceTree = "<group>"; };
+		1CE09FE31E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chance the Rappers Favorite Noises.mp3"; sourceTree = "<group>"; };
+		1CE09FE41E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Desiigner freestyle acapella - Westwood.mp3"; sourceTree = "<group>"; };
+		1CE09FE51E19C43A004E2A40 /* Drake Acapella Freestyle On Tim Westwood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drake Acapella Freestyle On Tim Westwood.mp3"; sourceTree = "<group>"; };
+		1CE09FE61E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kanye Wests Favorite Noises.mp3"; sourceTree = "<group>"; };
+		1CE09FE71E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3"; sourceTree = "<group>"; };
+		1CE09FE81E19C43A004E2A40 /* Vevo Presents Shady CXVPHER.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Vevo Presents Shady CXVPHER.mp3"; sourceTree = "<group>"; };
+		1CE09FE91E19C43A004E2A40 /* Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3"; sourceTree = "<group>"; };
+		1CE0A0041E19D8AF004E2A40 /* DrakePopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DrakePopUp.swift; path = ../DrakePopUp.swift; sourceTree = "<group>"; };
+		1CE0A0061E1AC74D004E2A40 /* Drake_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Drake_Sil.png; sourceTree = "<group>"; };
+		1CE0A0081E1AFD41004E2A40 /* Kanye_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kanye_Sil.png; sourceTree = "<group>"; };
+		1CE0A00A1E1AFDEC004E2A40 /* KanyePopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KanyePopUp.swift; path = ../KanyePopUp.swift; sourceTree = "<group>"; };
+		1CE0A00C1E1B03AA004E2A40 /* ChancePopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChancePopUp.swift; path = ../ChancePopUp.swift; sourceTree = "<group>"; };
+		1CE0A00E1E1B03D7004E2A40 /* Chance_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chance_Sil.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +187,8 @@
 		1CE09F8B1E19C39E004E2A40 = {
 			isa = PBXGroup;
 			children = (
+				1CE09FD21E19C43A004E2A40 /* Sounds */,
+				1CE09FC81E19C3D6004E2A40 /* Images */,
 				1CE09F961E19C39E004E2A40 /* ADLIB */,
 				1CE09FAD1E19C39E004E2A40 /* ADLIBTests */,
 				1CE09FB81E19C39E004E2A40 /* ADLIBUITests */,
@@ -99,13 +209,20 @@
 		1CE09F961E19C39E004E2A40 /* ADLIB */ = {
 			isa = PBXGroup;
 			children = (
-				1CE09F971E19C39E004E2A40 /* AppDelegate.swift */,
 				1CE09F991E19C39E004E2A40 /* FirstViewController.swift */,
-				1CE09F9B1E19C39E004E2A40 /* SecondViewController.swift */,
+				1CE0A00C1E1B03AA004E2A40 /* ChancePopUp.swift */,
+				1CE0A00A1E1AFDEC004E2A40 /* KanyePopUp.swift */,
+				1CE0A0041E19D8AF004E2A40 /* DrakePopUp.swift */,
+				1CE09F971E19C39E004E2A40 /* AppDelegate.swift */,
+				1C8FAF0B1E256624001BFEF8 /* TylerPopUp.swift */,
+				1C8FAF0D1E2575DE001BFEF8 /* KhaledPopUp.swift */,
 				1CE09F9D1E19C39E004E2A40 /* Main.storyboard */,
+				1CE09F9B1E19C39E004E2A40 /* SecondViewController.swift */,
 				1CE09FA01E19C39E004E2A40 /* Assets.xcassets */,
 				1CE09FA21E19C39E004E2A40 /* LaunchScreen.storyboard */,
 				1CE09FA51E19C39E004E2A40 /* Info.plist */,
+				1C8FAF1F1E259191001BFEF8 /* CGPopUp.swift */,
+				1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */,
 			);
 			path = ADLIB;
 			sourceTree = "<group>";
@@ -126,6 +243,83 @@
 				1CE09FBB1E19C39E004E2A40 /* Info.plist */,
 			);
 			path = ADLIBUITests;
+			sourceTree = "<group>";
+		};
+		1CE09FC81E19C3D6004E2A40 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1C8FAF091E2561D4001BFEF8 /* BackGround.gif */,
+				1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */,
+				1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */,
+				1C8FAEFA1E255C4D001BFEF8 /* IceCube_Sil.png */,
+				1C8FAEFB1E255C4D001BFEF8 /* IceCube_Raw.png */,
+				1C8FAEFC1E255C4D001BFEF8 /* Gambino_Sil.png */,
+				1C8FAEFD1E255C4D001BFEF8 /* Gambino_Raw.png */,
+				1C8FAEFE1E255C4D001BFEF8 /* DJKhaled_Sil.png */,
+				1C8FAEFF1E255C4D001BFEF8 /* DJKhaled_Raw.png */,
+				1CE0A00E1E1B03D7004E2A40 /* Chance_Sil.png */,
+				1CE0A0081E1AFD41004E2A40 /* Kanye_Sil.png */,
+				1CE0A0061E1AC74D004E2A40 /* Drake_Sil.png */,
+				1CE09FC91E19C402004E2A40 /* Chance_Raw.png */,
+				1CE09FCA1E19C402004E2A40 /* Drake_Raw.png */,
+				1CE09FCB1E19C402004E2A40 /* Kanye_Raw.png */,
+				1CE09FCC1E19C402004E2A40 /* Tyler_Raw.png */,
+				1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		1CE09FD21E19C43A004E2A40 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				1CE09FD31E19C43A004E2A40 /* EditedSounds */,
+				1CE09FE21E19C43A004E2A40 /* SourceSounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		1CE09FD31E19C43A004E2A40 /* EditedSounds */ = {
+			isa = PBXGroup;
+			children = (
+				1C8FAF231E25AA61001BFEF8 /* CG_Yeh.mp3 */,
+				1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */,
+				1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */,
+				1C8FAF211E25AA0A001BFEF8 /* CG_Yeah.mp3 */,
+				1C8FAF1D1E2589FE001BFEF8 /* Khaled_Accurate.mp3 */,
+				1C8FAF191E257F4B001BFEF8 /* Khaled_YouPlayedYourself.mp3 */,
+				1C8FAF1A1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 */,
+				1C8FAF171E257E86001BFEF8 /* Khaled_RealLife.mp3 */,
+				1C8FAF131E257DA7001BFEF8 /* Khaled_AnotherOne.mp3 */,
+				1CE09FD41E19C43A004E2A40 /* Chance_Ah1.mp3 */,
+				1CE09FD51E19C43A004E2A40 /* Chance_Ah2.mp3 */,
+				1CE09FD61E19C43A004E2A40 /* Chance_Ah3.mp3 */,
+				1CE09FD71E19C43A004E2A40 /* Chance_Yeah.mp3 */,
+				1CE09FD81E19C43A004E2A40 /* Drake_Bah.mp3 */,
+				1CE09FD91E19C43A004E2A40 /* Drake_ISayUh.mp3 */,
+				1CE09FDA1E19C43A004E2A40 /* Drake_NotAgain.mp3 */,
+				1CE09FDB1E19C43A004E2A40 /* Drake_OhMan.mp3 */,
+				1CE09FDC1E19C43A004E2A40 /* Drake_Yeah.mp3 */,
+				1CE09FDD1E19C43A004E2A40 /* Kanye_Laugh.mp3 */,
+				1CE09FDE1E19C43A004E2A40 /* Kanye_Reh.mp3 */,
+				1CE09FDF1E19C43A004E2A40 /* Kanye_Unh.mp3 */,
+				1CE09FE01E19C43A004E2A40 /* Tyler_Listen1.mp3 */,
+				1CE09FE11E19C43A004E2A40 /* Tyler_Listen2.mp3 */,
+			);
+			path = EditedSounds;
+			sourceTree = "<group>";
+		};
+		1CE09FE21E19C43A004E2A40 /* SourceSounds */ = {
+			isa = PBXGroup;
+			children = (
+				1CE09FE31E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 */,
+				1CE09FE41E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 */,
+				1CE09FE51E19C43A004E2A40 /* Drake Acapella Freestyle On Tim Westwood.mp3 */,
+				1CE09FE61E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 */,
+				1CE09FE71E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 */,
+				1CE09FE81E19C43A004E2A40 /* Vevo Presents Shady CXVPHER.mp3 */,
+				1CE09FE91E19C43A004E2A40 /* Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3 */,
+			);
+			path = SourceSounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,11 +385,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "VKTRY Studios";
 				TargetAttributes = {
 					1CE09F931E19C39E004E2A40 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = E73QK8539D;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 					1CE09FA91E19C39E004E2A40 = {
@@ -235,9 +431,56 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CE09FEE1E19C43A004E2A40 /* Drake_Bah.mp3 in Resources */,
+				1CE09FF91E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 in Resources */,
+				1C8FAF061E255C4D001BFEF8 /* Gambino_Raw.png in Resources */,
+				1CE09FED1E19C43A004E2A40 /* Chance_Yeah.mp3 in Resources */,
+				1C8FAF1C1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 in Resources */,
+				1C8FAF041E255C4D001BFEF8 /* IceCube_Raw.png in Resources */,
+				1CE09FF51E19C43A004E2A40 /* Kanye_Unh.mp3 in Resources */,
+				1CE09FCD1E19C402004E2A40 /* Chance_Raw.png in Resources */,
 				1CE09FA41E19C39E004E2A40 /* LaunchScreen.storyboard in Resources */,
+				1C8FAF1B1E257F4B001BFEF8 /* Khaled_YouPlayedYourself.mp3 in Resources */,
+				1CE09FF71E19C43A004E2A40 /* Tyler_Listen2.mp3 in Resources */,
+				1C8FAF181E257E86001BFEF8 /* Khaled_RealLife.mp3 in Resources */,
+				1C8FAF221E25AA0A001BFEF8 /* CG_Yeah.mp3 in Resources */,
 				1CE09FA11E19C39E004E2A40 /* Assets.xcassets in Resources */,
+				1C8FAF141E257DA7001BFEF8 /* Khaled_AnotherOne.mp3 in Resources */,
+				1CE09FFD1E19C43A004E2A40 /* Vevo Presents Shady CXVPHER.mp3 in Resources */,
+				1C8FAF1E1E2589FE001BFEF8 /* Khaled_Accurate.mp3 in Resources */,
+				1CE0A00F1E1B03D7004E2A40 /* Chance_Sil.png in Resources */,
+				1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */,
+				1CE09FF81E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 in Resources */,
+				1CE09FFB1E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 in Resources */,
+				1CE0A0071E1AC74D004E2A40 /* Drake_Sil.png in Resources */,
+				1CE09FEB1E19C43A004E2A40 /* Chance_Ah2.mp3 in Resources */,
+				1CE09FEF1E19C43A004E2A40 /* Drake_ISayUh.mp3 in Resources */,
+				1C8FAF261E25AA61001BFEF8 /* CG_Yeh.mp3 in Resources */,
+				1C8FAF011E255C4D001BFEF8 /* JayZ_Sil.png in Resources */,
 				1CE09F9F1E19C39E004E2A40 /* Main.storyboard in Resources */,
+				1CE09FCE1E19C402004E2A40 /* Drake_Raw.png in Resources */,
+				1CE09FF21E19C43A004E2A40 /* Drake_Yeah.mp3 in Resources */,
+				1CE09FD01E19C402004E2A40 /* Tyler_Raw.png in Resources */,
+				1CE09FFE1E19C43A004E2A40 /* Will Smith The Fresh Prince freestyle 1989 - Westwood.mp3 in Resources */,
+				1CE09FFC1E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 in Resources */,
+				1C8FAF021E255C4D001BFEF8 /* JayZ_Raw.png in Resources */,
+				1CE09FEC1E19C43A004E2A40 /* Chance_Ah3.mp3 in Resources */,
+				1CE09FF11E19C43A004E2A40 /* Drake_OhMan.mp3 in Resources */,
+				1C8FAF001E255C4D001BFEF8 /* Tyler_Sil.png in Resources */,
+				1CE09FF01E19C43A004E2A40 /* Drake_NotAgain.mp3 in Resources */,
+				1CE0A0091E1AFD41004E2A40 /* Kanye_Sil.png in Resources */,
+				1C8FAF031E255C4D001BFEF8 /* IceCube_Sil.png in Resources */,
+				1C8FAF051E255C4D001BFEF8 /* Gambino_Sil.png in Resources */,
+				1C8FAF071E255C4D001BFEF8 /* DJKhaled_Sil.png in Resources */,
+				1C8FAF0A1E2561D4001BFEF8 /* BackGround.gif in Resources */,
+				1CE09FFA1E19C43A004E2A40 /* Drake Acapella Freestyle On Tim Westwood.mp3 in Resources */,
+				1CE09FCF1E19C402004E2A40 /* Kanye_Raw.png in Resources */,
+				1C8FAF271E25AA61001BFEF8 /* CG_Okay.mp3 in Resources */,
+				1C8FAF081E255C4D001BFEF8 /* DJKhaled_Raw.png in Resources */,
+				1CE09FEA1E19C43A004E2A40 /* Chance_Ah1.mp3 in Resources */,
+				1CE09FF31E19C43A004E2A40 /* Kanye_Laugh.mp3 in Resources */,
+				1CE09FF61E19C43A004E2A40 /* Tyler_Listen1.mp3 in Resources */,
+				1CE09FF41E19C43A004E2A40 /* Kanye_Reh.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +506,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CE09F9C1E19C39E004E2A40 /* SecondViewController.swift in Sources */,
+				1C8FAF201E259191001BFEF8 /* CGPopUp.swift in Sources */,
+				1C8FAF0E1E2575DE001BFEF8 /* KhaledPopUp.swift in Sources */,
 				1CE09F981E19C39E004E2A40 /* AppDelegate.swift in Sources */,
+				1CE0A00D1E1B03AA004E2A40 /* ChancePopUp.swift in Sources */,
+				1CE0A00B1E1AFDEC004E2A40 /* KanyePopUp.swift in Sources */,
+				1CE0A0051E19D8AF004E2A40 /* DrakePopUp.swift in Sources */,
 				1CE09F9A1E19C39E004E2A40 /* FirstViewController.swift in Sources */,
+				1C8FAF0C1E256624001BFEF8 /* TylerPopUp.swift in Sources */,
+				1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,9 +587,11 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -359,7 +611,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -387,9 +639,11 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -403,7 +657,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -416,10 +670,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = E73QK8539D;
 				INFOPLIST_FILE = ADLIB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vikram.ADLIB;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -428,6 +685,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = E73QK8539D;
 				INFOPLIST_FILE = ADLIB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vikram.ADLIB;
@@ -509,6 +768,7 @@
 				1CE09FC01E19C39E004E2A40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CE09FC11E19C39E004E2A40 /* Build configuration list for PBXNativeTarget "ADLIBTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +777,7 @@
 				1CE09FC31E19C39E004E2A40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CE09FC41E19C39E004E2A40 /* Build configuration list for PBXNativeTarget "ADLIBUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +786,7 @@
 				1CE09FC61E19C39E004E2A40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
