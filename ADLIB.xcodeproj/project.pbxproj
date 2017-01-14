@@ -30,6 +30,11 @@
 		1C8FAF271E25AA61001BFEF8 /* CG_Okay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */; };
 		1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */; };
 		1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */; };
+		1CCE4D791E28711D0043557E /* SynthScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCE4D781E28711D0043557E /* SynthScreen.swift */; };
+		1CCE4D7B1E2874C50043557E /* FrancisIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */; };
+		1CCE4D7D1E28A8A10043557E /* pad.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7C1E28A8A10043557E /* pad.png */; };
+		1CCE4D7F1E28AC870043557E /* BlackDenim.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7E1E28AC870043557E /* BlackDenim.jpg */; };
+		1CCE4D811E28B47F0043557E /* gistfile1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCE4D801E28B47F0043557E /* gistfile1.swift */; };
 		1CE09F981E19C39E004E2A40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F971E19C39E004E2A40 /* AppDelegate.swift */; };
 		1CE09F9A1E19C39E004E2A40 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F991E19C39E004E2A40 /* FirstViewController.swift */; };
 		1CE09F9C1E19C39E004E2A40 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE09F9B1E19C39E004E2A40 /* SecondViewController.swift */; };
@@ -112,6 +117,11 @@
 		1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Okay.mp3; sourceTree = "<group>"; };
 		1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Heh.mp3; sourceTree = "<group>"; };
 		1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryBackground.swift; sourceTree = "<group>"; };
+		1CCE4D781E28711D0043557E /* SynthScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SynthScreen.swift; sourceTree = "<group>"; };
+		1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FrancisIcon.jpg; sourceTree = "<group>"; };
+		1CCE4D7C1E28A8A10043557E /* pad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pad.png; sourceTree = "<group>"; };
+		1CCE4D7E1E28AC870043557E /* BlackDenim.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BlackDenim.jpg; sourceTree = "<group>"; };
+		1CCE4D801E28B47F0043557E /* gistfile1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gistfile1.swift; sourceTree = "<group>"; };
 		1CE09F941E19C39E004E2A40 /* ADLIB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ADLIB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE09F971E19C39E004E2A40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CE09F991E19C39E004E2A40 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -209,6 +219,7 @@
 		1CE09F961E19C39E004E2A40 /* ADLIB */ = {
 			isa = PBXGroup;
 			children = (
+				1CCE4D801E28B47F0043557E /* gistfile1.swift */,
 				1CE09F991E19C39E004E2A40 /* FirstViewController.swift */,
 				1CE0A00C1E1B03AA004E2A40 /* ChancePopUp.swift */,
 				1CE0A00A1E1AFDEC004E2A40 /* KanyePopUp.swift */,
@@ -223,6 +234,7 @@
 				1CE09FA51E19C39E004E2A40 /* Info.plist */,
 				1C8FAF1F1E259191001BFEF8 /* CGPopUp.swift */,
 				1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */,
+				1CCE4D781E28711D0043557E /* SynthScreen.swift */,
 			);
 			path = ADLIB;
 			sourceTree = "<group>";
@@ -248,6 +260,9 @@
 		1CE09FC81E19C3D6004E2A40 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				1CCE4D7E1E28AC870043557E /* BlackDenim.jpg */,
+				1CCE4D7C1E28A8A10043557E /* pad.png */,
+				1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */,
 				1C8FAF091E2561D4001BFEF8 /* BackGround.gif */,
 				1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */,
 				1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */,
@@ -436,6 +451,7 @@
 				1C8FAF061E255C4D001BFEF8 /* Gambino_Raw.png in Resources */,
 				1CE09FED1E19C43A004E2A40 /* Chance_Yeah.mp3 in Resources */,
 				1C8FAF1C1E257F4B001BFEF8 /* Khaled_AndAnotherOne.mp3 in Resources */,
+				1CCE4D7B1E2874C50043557E /* FrancisIcon.jpg in Resources */,
 				1C8FAF041E255C4D001BFEF8 /* IceCube_Raw.png in Resources */,
 				1CE09FF51E19C43A004E2A40 /* Kanye_Unh.mp3 in Resources */,
 				1CE09FCD1E19C402004E2A40 /* Chance_Raw.png in Resources */,
@@ -450,6 +466,7 @@
 				1C8FAF1E1E2589FE001BFEF8 /* Khaled_Accurate.mp3 in Resources */,
 				1CE0A00F1E1B03D7004E2A40 /* Chance_Sil.png in Resources */,
 				1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */,
+				1CCE4D7F1E28AC870043557E /* BlackDenim.jpg in Resources */,
 				1CE09FF81E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 in Resources */,
 				1CE09FFB1E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 in Resources */,
 				1CE0A0071E1AC74D004E2A40 /* Drake_Sil.png in Resources */,
@@ -465,6 +482,7 @@
 				1CE09FFC1E19C43A004E2A40 /* Tyler the Creator Freestyles Acapella on Sway in the Morning.mp3 in Resources */,
 				1C8FAF021E255C4D001BFEF8 /* JayZ_Raw.png in Resources */,
 				1CE09FEC1E19C43A004E2A40 /* Chance_Ah3.mp3 in Resources */,
+				1CCE4D7D1E28A8A10043557E /* pad.png in Resources */,
 				1CE09FF11E19C43A004E2A40 /* Drake_OhMan.mp3 in Resources */,
 				1C8FAF001E255C4D001BFEF8 /* Tyler_Sil.png in Resources */,
 				1CE09FF01E19C43A004E2A40 /* Drake_NotAgain.mp3 in Resources */,
@@ -514,6 +532,8 @@
 				1CE0A0051E19D8AF004E2A40 /* DrakePopUp.swift in Sources */,
 				1CE09F9A1E19C39E004E2A40 /* FirstViewController.swift in Sources */,
 				1C8FAF0C1E256624001BFEF8 /* TylerPopUp.swift in Sources */,
+				1CCE4D791E28711D0043557E /* SynthScreen.swift in Sources */,
+				1CCE4D811E28B47F0043557E /* gistfile1.swift in Sources */,
 				1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
