@@ -30,6 +30,8 @@
 		1C8FAF271E25AA61001BFEF8 /* CG_Okay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */; };
 		1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */; };
 		1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */; };
+		1CAFAF4D1E2ADE6A00E54D05 /* AudioKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */; };
+		1CAFAF4E1E2ADE6A00E54D05 /* AudioKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		1CCE4D791E28711D0043557E /* SynthScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCE4D781E28711D0043557E /* SynthScreen.swift */; };
 		1CCE4D7B1E2874C50043557E /* FrancisIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */; };
 		1CCE4D7D1E28A8A10043557E /* pad.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7C1E28A8A10043557E /* pad.png */; };
@@ -93,6 +95,20 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		1CAFAF4F1E2ADE6A00E54D05 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				1CAFAF4E1E2ADE6A00E54D05 /* AudioKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tyler_Sil.png; sourceTree = "<group>"; };
 		1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JayZ_Sil.png; sourceTree = "<group>"; };
@@ -117,6 +133,7 @@
 		1C8FAF241E25AA61001BFEF8 /* CG_Okay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Okay.mp3; sourceTree = "<group>"; };
 		1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Heh.mp3; sourceTree = "<group>"; };
 		1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryBackground.swift; sourceTree = "<group>"; };
+		1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AudioKit.framework; sourceTree = "<group>"; };
 		1CCE4D781E28711D0043557E /* SynthScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SynthScreen.swift; sourceTree = "<group>"; };
 		1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FrancisIcon.jpg; sourceTree = "<group>"; };
 		1CCE4D7C1E28A8A10043557E /* pad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pad.png; sourceTree = "<group>"; };
@@ -174,6 +191,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CAFAF4D1E2ADE6A00E54D05 /* AudioKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,6 +215,7 @@
 		1CE09F8B1E19C39E004E2A40 = {
 			isa = PBXGroup;
 			children = (
+				1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */,
 				1CE09FD21E19C43A004E2A40 /* Sounds */,
 				1CE09FC81E19C3D6004E2A40 /* Images */,
 				1CE09F961E19C39E004E2A40 /* ADLIB */,
@@ -347,6 +366,7 @@
 				1CE09F901E19C39E004E2A40 /* Sources */,
 				1CE09F911E19C39E004E2A40 /* Frameworks */,
 				1CE09F921E19C39E004E2A40 /* Resources */,
+				1CAFAF4F1E2ADE6A00E54D05 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -692,6 +712,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = E73QK8539D;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = ADLIB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vikram.ADLIB;
@@ -707,6 +731,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = E73QK8539D;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = ADLIB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vikram.ADLIB;

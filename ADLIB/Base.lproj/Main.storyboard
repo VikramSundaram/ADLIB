@@ -30,43 +30,72 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
                                 <connections>
-                                    <action selector="IChord:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="4VO-aI-O3u"/>
+                                    <action selector="OneStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="Aal-wB-qmc"/>
+                                    <action selector="OneStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="HFm-Ch-sSj"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZeD-aJ-Nn1">
                                 <rect key="frame" x="201" y="34" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="TwoStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="fg8-L0-r6j"/>
+                                    <action selector="TwoStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="LpL-hg-1oG"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="641-ay-iE8">
                                 <rect key="frame" x="16" y="184" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="ThreeStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="Lur-WK-drQ"/>
+                                    <action selector="ThreeStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="53l-Zs-6eQ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hx1-SP-A7m">
                                 <rect key="frame" x="201" y="184" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="IVStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="YMF-vA-CsL"/>
+                                    <action selector="IVStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="Ml9-Yn-0xW"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aEj-K4-fDX">
                                 <rect key="frame" x="16" y="334" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="VStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="3NR-yI-r9U"/>
+                                    <action selector="VStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="PIc-a6-1u5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Pf-DB-JHb">
                                 <rect key="frame" x="201" y="334" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="VIStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="v6r-Kt-Oag"/>
+                                    <action selector="VIStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="SUc-NA-MnH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fup-YQ-hEL">
                                 <rect key="frame" x="16" y="484" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="VIIStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="wbf-ga-bc7"/>
+                                    <action selector="VIIStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="QAp-ko-ojU"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y9F-Ul-EJY">
                                 <rect key="frame" x="201" y="484" width="158" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="pad.png"/>
+                                <connections>
+                                    <action selector="VIIIStart:" destination="SXq-QM-dkJ" eventType="touchDown" id="5DZ-26-mEp"/>
+                                    <action selector="VIIIStop:" destination="SXq-QM-dkJ" eventType="touchUpInside" id="gOE-OW-zyV"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="I" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8NX-8d-cdG">
                                 <rect key="frame" x="88" y="73" width="15" height="71"/>
@@ -146,7 +175,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4U5-GJ-D8d" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1405.5999999999999" y="-553.67316341829087"/>
+            <point key="canvasLocation" x="750" y="-985"/>
         </scene>
         <!--Pop Up-->
         <scene sceneID="8MO-5N-vL9">
