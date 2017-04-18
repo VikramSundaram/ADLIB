@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C6FD4191E9AA45900CA075B /* 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C6FD4181E9AA45900CA075B /* 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png */; };
 		1C8FAF001E255C4D001BFEF8 /* Tyler_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */; };
 		1C8FAF011E255C4D001BFEF8 /* JayZ_Sil.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */; };
 		1C8FAF021E255C4D001BFEF8 /* JayZ_Raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */; };
@@ -32,6 +33,10 @@
 		1C8FAF2A1E25AE07001BFEF8 /* LibraryBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */; };
 		1CAFAF4D1E2ADE6A00E54D05 /* AudioKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */; };
 		1CAFAF4E1E2ADE6A00E54D05 /* AudioKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		1CC87F431E39E10000E8A7E0 /* Key.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC87F421E39E10000E8A7E0 /* Key.png */; };
+		1CC87F471E39E53100E8A7E0 /* Key.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC87F461E39E53100E8A7E0 /* Key.swift */; };
+		1CC87F491E39E6A500E8A7E0 /* dj-khaled-full-01-2016.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC87F481E39E6A500E8A7E0 /* dj-khaled-full-01-2016.png */; };
+		1CC87F4B1E39F05100E8A7E0 /* pexels-photo-87351.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1CC87F4A1E39F05100E8A7E0 /* pexels-photo-87351.jpeg */; };
 		1CCE4D791E28711D0043557E /* SynthScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCE4D781E28711D0043557E /* SynthScreen.swift */; };
 		1CCE4D7B1E2874C50043557E /* FrancisIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */; };
 		1CCE4D7D1E28A8A10043557E /* pad.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CCE4D7C1E28A8A10043557E /* pad.png */; };
@@ -110,6 +115,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1C6FD4181E9AA45900CA075B /* 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png; sourceTree = "<group>"; };
 		1C8FAEF71E255C4D001BFEF8 /* Tyler_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tyler_Sil.png; sourceTree = "<group>"; };
 		1C8FAEF81E255C4D001BFEF8 /* JayZ_Sil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JayZ_Sil.png; sourceTree = "<group>"; };
 		1C8FAEF91E255C4D001BFEF8 /* JayZ_Raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JayZ_Raw.png; sourceTree = "<group>"; };
@@ -134,6 +140,10 @@
 		1C8FAF251E25AA61001BFEF8 /* CG_Heh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CG_Heh.mp3; sourceTree = "<group>"; };
 		1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryBackground.swift; sourceTree = "<group>"; };
 		1CAFAF4C1E2ADE6A00E54D05 /* AudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AudioKit.framework; sourceTree = "<group>"; };
+		1CC87F421E39E10000E8A7E0 /* Key.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Key.png; sourceTree = "<group>"; };
+		1CC87F461E39E53100E8A7E0 /* Key.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Key.swift; sourceTree = "<group>"; };
+		1CC87F481E39E6A500E8A7E0 /* dj-khaled-full-01-2016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dj-khaled-full-01-2016.png"; sourceTree = "<group>"; };
+		1CC87F4A1E39F05100E8A7E0 /* pexels-photo-87351.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-photo-87351.jpeg"; sourceTree = "<group>"; };
 		1CCE4D781E28711D0043557E /* SynthScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SynthScreen.swift; sourceTree = "<group>"; };
 		1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FrancisIcon.jpg; sourceTree = "<group>"; };
 		1CCE4D7C1E28A8A10043557E /* pad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pad.png; sourceTree = "<group>"; };
@@ -254,6 +264,7 @@
 				1C8FAF1F1E259191001BFEF8 /* CGPopUp.swift */,
 				1C8FAF291E25AE07001BFEF8 /* LibraryBackground.swift */,
 				1CCE4D781E28711D0043557E /* SynthScreen.swift */,
+				1CC87F461E39E53100E8A7E0 /* Key.swift */,
 			);
 			path = ADLIB;
 			sourceTree = "<group>";
@@ -279,6 +290,10 @@
 		1CE09FC81E19C3D6004E2A40 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				1C6FD4181E9AA45900CA075B /* 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png */,
+				1CC87F4A1E39F05100E8A7E0 /* pexels-photo-87351.jpeg */,
+				1CC87F481E39E6A500E8A7E0 /* dj-khaled-full-01-2016.png */,
+				1CC87F421E39E10000E8A7E0 /* Key.png */,
 				1CCE4D7E1E28AC870043557E /* BlackDenim.jpg */,
 				1CCE4D7C1E28A8A10043557E /* pad.png */,
 				1CCE4D7A1E2874C50043557E /* FrancisIcon.jpg */,
@@ -466,6 +481,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CC87F4B1E39F05100E8A7E0 /* pexels-photo-87351.jpeg in Resources */,
 				1CE09FEE1E19C43A004E2A40 /* Drake_Bah.mp3 in Resources */,
 				1CE09FF91E19C43A004E2A40 /* Desiigner freestyle acapella - Westwood.mp3 in Resources */,
 				1C8FAF061E255C4D001BFEF8 /* Gambino_Raw.png in Resources */,
@@ -487,8 +503,10 @@
 				1CE0A00F1E1B03D7004E2A40 /* Chance_Sil.png in Resources */,
 				1C8FAF281E25AA61001BFEF8 /* CG_Heh.mp3 in Resources */,
 				1CCE4D7F1E28AC870043557E /* BlackDenim.jpg in Resources */,
+				1CC87F431E39E10000E8A7E0 /* Key.png in Resources */,
 				1CE09FF81E19C43A004E2A40 /* Chance the Rappers Favorite Noises.mp3 in Resources */,
 				1CE09FFB1E19C43A004E2A40 /* Kanye Wests Favorite Noises.mp3 in Resources */,
+				1CC87F491E39E6A500E8A7E0 /* dj-khaled-full-01-2016.png in Resources */,
 				1CE0A0071E1AC74D004E2A40 /* Drake_Sil.png in Resources */,
 				1CE09FEB1E19C43A004E2A40 /* Chance_Ah2.mp3 in Resources */,
 				1CE09FEF1E19C43A004E2A40 /* Drake_ISayUh.mp3 in Resources */,
@@ -504,6 +522,7 @@
 				1CE09FEC1E19C43A004E2A40 /* Chance_Ah3.mp3 in Resources */,
 				1CCE4D7D1E28A8A10043557E /* pad.png in Resources */,
 				1CE09FF11E19C43A004E2A40 /* Drake_OhMan.mp3 in Resources */,
+				1C6FD4191E9AA45900CA075B /* 566ce0aff620efdb5ebf7745323ba82a.950x950x1.png in Resources */,
 				1C8FAF001E255C4D001BFEF8 /* Tyler_Sil.png in Resources */,
 				1CE09FF01E19C43A004E2A40 /* Drake_NotAgain.mp3 in Resources */,
 				1CE0A0091E1AFD41004E2A40 /* Kanye_Sil.png in Resources */,
@@ -546,6 +565,7 @@
 				1CE09F9C1E19C39E004E2A40 /* SecondViewController.swift in Sources */,
 				1C8FAF201E259191001BFEF8 /* CGPopUp.swift in Sources */,
 				1C8FAF0E1E2575DE001BFEF8 /* KhaledPopUp.swift in Sources */,
+				1CC87F471E39E53100E8A7E0 /* Key.swift in Sources */,
 				1CE09F981E19C39E004E2A40 /* AppDelegate.swift in Sources */,
 				1CE0A00D1E1B03AA004E2A40 /* ChancePopUp.swift in Sources */,
 				1CE0A00B1E1AFDEC004E2A40 /* KanyePopUp.swift in Sources */,
